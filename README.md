@@ -6,7 +6,7 @@ This project is a Library Management System API built with Node.js and MySQL
   - `/register` => Register 
   - `/login` => Log in and get token
   - `/borrow` => Borrow book
-  - `/return`  => Retuen book
+  - `/return`  => Return book
 
 ## Usage
 - Connect to your MySql database in `config/database.js`
